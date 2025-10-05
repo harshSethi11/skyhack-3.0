@@ -1,0 +1,14 @@
+# Ignore virtual environments
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore virtualenvs if named
+env/
+venv/
+skyhack/
